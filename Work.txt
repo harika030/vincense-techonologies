@@ -1,0 +1,26 @@
+CryptoMaze Privacy Preserving Splitting of Off Chain Payments
+
+IEEE Transactions on Dependable and Secure Computing,Issue Date:07.February.2022
+
+Members
+
+RID,
+type,	
+Product_Purchase,	
+amount,	
+nameOrig,	
+oldbalanceOrg,	
+newbalanceOrig,	
+nameDest,	
+ttype
+
+wormhole_attack
+
+
+Blockchain; Layer 2 protocols; Payment Channels; Payment Channel Networks; Wormhole Attack; Atomic Multi-path
+Payment; Privacy; Unlinkability; Bitcoin; Lightning Network.
+
+
+wormhole_attack
+
+
